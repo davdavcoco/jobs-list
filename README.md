@@ -16,9 +16,13 @@ nodemon index
 ```
 
 Second, run Postman to API testing with the parameter :
+
 POST /tugas
+
 GET /tugas
 
 GET /tasks/{id}
+
 PATCH /tasks/{id}
+
 DELETE /tasks/{id}
